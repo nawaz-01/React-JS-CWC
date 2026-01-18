@@ -1,9 +1,10 @@
+import Chai from "./chai.jsx"
 
 function App() {
 
 
   return (
-  <h1>Chai aur React with VITE | Nawaz</h1>
+  <Chai/>
   )
 }
 
