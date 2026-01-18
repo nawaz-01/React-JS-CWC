@@ -4,7 +4,11 @@ function App() {
 
 
   return (
-  <Chai/>
+    <>
+    <Chai/>
+    <h1>Chai aur React is Really Awesome | Nawaz</h1>
+    <p>Let's Start The Magic Of React With VITE</p>
+    </>
   )
 }
 
